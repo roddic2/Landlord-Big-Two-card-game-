@@ -17,6 +17,7 @@ How It Works:
 	•	When two players pass consecutively, the round resets and the last player who made a move starts a new round.
 
 Rules-----------------------------------------------------------------------------------------------
+
 Valid Moves:
 	•	Single Card: Any single card
 	•	Pair: Two cards of the same rank (e.g., 9C 9S)
